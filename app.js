@@ -166,10 +166,10 @@ App({
   },
   globalData:{
     userInfo:null,
-    subDomain: "https://xxx/wxa/oejia", // 如果你的域名是：https://xxxx/；接口前缀：oejia 那么这里填写 https://xxx/wxa/oejia
+    subDomain: "https://sale.calluu.cn/wxa/oejia", // 如果你的域名是：https://xxxx/；接口前缀：oejia 那么这里填写 https://xxx/wxa/oejia
     version: "4.1.0",
     note:'增加小程序购物单支持',
-    appid: "wxa46b09d413fbcaff", // 您的小程序的appid
+    appid: "wx89080c6b5d57fcc2", // 您的小程序的appid
     shareProfile: '百款精品商品，总有一款适合您', // 首页转发的时候话术
     isConnected: true // 网络是否连接
   }
