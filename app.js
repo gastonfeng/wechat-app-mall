@@ -166,7 +166,7 @@ App({
   },
   globalData:{
     userInfo:null,
-    subDomain: "tz", // 如果你的域名是： https://api.it120.cc/abcd 那么这里只要填写 abcd
+    subDomain: "https://xxx/wxa/oejia", // 如果你的域名是：https://xxxx/；接口前缀：oejia 那么这里填写 https://xxx/wxa/oejia
     version: "4.1.0",
     note:'增加小程序购物单支持',
     appid: "wxa46b09d413fbcaff", // 您的小程序的appid
