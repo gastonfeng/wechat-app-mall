@@ -122,7 +122,7 @@ App({
   },
   globalData:{
     userInfo:null,
-    subDomain: "https://xxx/xxx",
+    subDomain: "https://www.kaikong.cn/wxshop",
     version: "4.0.0",
     shareProfile: '百款精品商品，总有一款适合您' // 首页转发的时候话术
   }
