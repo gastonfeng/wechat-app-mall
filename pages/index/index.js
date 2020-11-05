@@ -64,7 +64,7 @@ Page({
     wx.request({
       url: app.globalData.subDomain + '/banner/list',
       data: {
-        key: 'mallName'
+        type: 'index'
       },
       success: function(res) {
         if (res.data.code == 404) {
